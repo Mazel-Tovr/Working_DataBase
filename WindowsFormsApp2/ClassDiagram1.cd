@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Главная Форма">
+    <Position X="3.177" Y="0.719" Height="0.49" Width="1.033" />
+  </Comment>
+  <Comment CommentText="Редактирование данных в Бд">
+    <Position X="5.656" Y="0.708" Height="0.5" Width="1.138" />
+  </Comment>
+  <Comment CommentText="Запросы&#xD;&#xA;">
+    <Position X="5.802" Y="2.407" Height="0.291" Width="0.815" />
+  </Comment>
+  <Comment CommentText="Запросы на добавление, удаление и редактирование">
+    <Position X="8.677" Y="1.896" Height="0.823" Width="1.138" />
+  </Comment>
+  <Comment CommentText="Получение информации из БД">
+    <Position X="0.552" Y="0.656" Height="0.542" Width="1.325" />
+  </Comment>
+  <Class Name="WindowsFormsApp2.add_request" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>90AAAIAAACAAGBAAAAjAAAAChIoIQCBECCEACAKAAAA=</HashCode>
+      <FileName>add_request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp2.Editing" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAEACAAAABCAACAAAACAIgIAAAAAEACQAAAAAA=</HashCode>
+      <FileName>Editing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp2.Getinfo" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAQAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Getinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp2.Requests" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAIACAgAACAIgEAAAAABgAAAAACAA=</HashCode>
+      <FileName>Requests.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="add_request1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApp2.MainForm" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAECAACBFAAACAAAACQMgYAABgAGAIQDAAgAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Editing" />
+      <Property Name="Requests" />
+      <Property Name="Getinfo" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
