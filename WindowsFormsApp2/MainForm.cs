@@ -18,7 +18,7 @@ namespace WindowsFormsApp2
         public string connectString { get; set; }// = @"server=127.0.0.1;user=root;database=shop;password=";
 
         private MySqlConnection myConnection;
-        //При загрузки формы
+        
 
         void OpenConnection()
         {
@@ -27,8 +27,10 @@ namespace WindowsFormsApp2
         void CloseConnection()
         {
             myConnection.Close();
+            
         }
- 
+
+        //При загрузки формы
         public MainForm(string server, string user, string database, string password)
         {
             InitializeComponent();
@@ -46,6 +48,7 @@ namespace WindowsFormsApp2
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             myConnection.Close();
+            Application.Exit();
         }
         /// <summary>
         /// Открытие БД

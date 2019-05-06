@@ -53,7 +53,6 @@ E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Deb
 E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\mysql.data.dll
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
-C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources

@@ -22,13 +22,7 @@ namespace WindowsFormsApp2
             this.list = list;
         }
 
-        public add_request add_request1
-        {
-            get => default(add_request);
-            set
-            {
-            }
-        }
+        
         
         private string from()
         {
@@ -36,6 +30,7 @@ namespace WindowsFormsApp2
             a.ShowDialog();
             return a.TableName;
         }
+        
 
 
         private void Search_request_Click(object sender, EventArgs e)
@@ -72,10 +67,29 @@ namespace WindowsFormsApp2
             myConnection.Open();
         }
 
-        private void add_request_Click(object sender, EventArgs e)
+        void SqlRequest(string tables)
         {
-            add_request s = new add_request();
-            s.Show();
+            string query = String.Format("SELECT * FROM {0}", tables);
+            MySqlCommand command = new MySqlCommand(query, myConnection);
+            //Вывод данных в DataGridView
+            MySqlDataAdapter adapter = new MySqlDataAdapter();
+            adapter.SelectCommand = command;
+            DataSet dataSet = new DataSet();
+            adapter.Fill(dataSet);
+            dataGridView1.DataSource = dataSet.Tables[0];
+            adapter.Update(dataSet);
+        }
+
+        private void del_request_Click(object sender, EventArgs e)
+        {
+            string tables1 = from(); //Microsoft.VisualBasic.Interaction.InputBox("Введите название таблице из которой хотите взять данные"); 
+            string where1 = Microsoft.VisualBasic.Interaction.InputBox("Введите параметры удаление");
+            string query = String.Format("DELETE FROM {0} WHERE {1}", tables1, where1);//SQL Запрос 
+            MySqlCommand command = new MySqlCommand(query, myConnection);
+            command.ExecuteNonQuery();
+            //Вывод данных в DataGridView
+            SqlRequest(tables1);
+            MessageBox.Show("Запрос успешно построен!", "Уведомление о результатах", MessageBoxButtons.OK);
         }
 
         private void your_request_Click(object sender, EventArgs e)

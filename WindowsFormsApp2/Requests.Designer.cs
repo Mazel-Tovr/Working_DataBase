@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Requests));
             this.Search_request = new System.Windows.Forms.Button();
-            this.add_request = new System.Windows.Forms.Button();
+            this.del_request = new System.Windows.Forms.Button();
             this.your_request = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -46,15 +46,15 @@
             this.Search_request.UseVisualStyleBackColor = true;
             this.Search_request.Click += new System.EventHandler(this.Search_request_Click);
             // 
-            // add_request
+            // del_request
             // 
-            this.add_request.Location = new System.Drawing.Point(250, 366);
-            this.add_request.Name = "add_request";
-            this.add_request.Size = new System.Drawing.Size(173, 62);
-            this.add_request.TabIndex = 2;
-            this.add_request.Text = "Запрос на добавление,удаление и обнавления записей";
-            this.add_request.UseVisualStyleBackColor = true;
-            this.add_request.Click += new System.EventHandler(this.add_request_Click);
+            this.del_request.Location = new System.Drawing.Point(250, 366);
+            this.del_request.Name = "del_request";
+            this.del_request.Size = new System.Drawing.Size(173, 62);
+            this.del_request.TabIndex = 2;
+            this.del_request.Text = "Запрос на удаление записей";
+            this.del_request.UseVisualStyleBackColor = true;
+            this.del_request.Click += new System.EventHandler(this.del_request_Click);
             // 
             // your_request
             // 
@@ -82,7 +82,7 @@
             this.ClientSize = new System.Drawing.Size(732, 440);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.your_request);
-            this.Controls.Add(this.add_request);
+            this.Controls.Add(this.del_request);
             this.Controls.Add(this.Search_request);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Requests";
@@ -96,7 +96,7 @@
         #endregion
 
         private System.Windows.Forms.Button Search_request;
-        private System.Windows.Forms.Button add_request;
+        private System.Windows.Forms.Button del_request;
         private System.Windows.Forms.Button your_request;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
