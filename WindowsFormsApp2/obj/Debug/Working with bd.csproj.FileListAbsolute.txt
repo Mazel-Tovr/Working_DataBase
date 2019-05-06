@@ -1,0 +1,70 @@
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Getinfo.resources
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+F:\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Getinfo.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Рома\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojResolveAssemblyReference.cache
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Getinfo.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+H:\ад первого курса\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.Cache
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Getinfo.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Hell_of_first_course\Kyrsach_Ivanov\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\mysql.data.dll
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_request.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CopyComplete
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe.config
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.pdb
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddDataBase.resources
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.exe
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.pdb
+C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Get_table_name.resources
