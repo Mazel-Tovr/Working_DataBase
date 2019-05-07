@@ -67,3 +67,18 @@ C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsAp
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.exe
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.pdb
 C:\Users\Roma\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Get_table_name.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe.config
+D:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe
+D:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.pdb
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csprojAssemblyReference.cache
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddDataBase.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Get_table_name.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CopyComplete
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.exe
+D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.pdb
