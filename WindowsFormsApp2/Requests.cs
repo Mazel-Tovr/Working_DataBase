@@ -82,14 +82,21 @@ namespace WindowsFormsApp2
 
         private void del_request_Click(object sender, EventArgs e)
         {
-            string tables1 = from(); //Microsoft.VisualBasic.Interaction.InputBox("Введите название таблице из которой хотите взять данные"); 
-            string where1 = Microsoft.VisualBasic.Interaction.InputBox("Введите параметры удаление");
-            string query = String.Format("DELETE FROM {0} WHERE {1}", tables1, where1);//SQL Запрос 
-            MySqlCommand command = new MySqlCommand(query, myConnection);
-            command.ExecuteNonQuery();
-            //Вывод данных в DataGridView
-            SqlRequest(tables1);
-            MessageBox.Show("Запрос успешно построен!", "Уведомление о результатах", MessageBoxButtons.OK);
+            try
+            {
+                string tables1 = from(); //Microsoft.VisualBasic.Interaction.InputBox("Введите название таблице из которой хотите взять данные"); 
+                string where1 = Microsoft.VisualBasic.Interaction.InputBox("Введите параметры удаление");
+                string query = String.Format("DELETE FROM {0} WHERE {1}", tables1, where1);//SQL Запрос 
+                MySqlCommand command = new MySqlCommand(query, myConnection);
+                command.ExecuteNonQuery();
+                //Вывод данных в DataGridView
+                SqlRequest(tables1);
+                MessageBox.Show("Запрос успешно построен!", "Уведомление о результатах", MessageBoxButtons.OK);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Введенный вами запрос некорректен!", "Уведомление о результатах", MessageBoxButtons.OK);
+            }
         }
 
         private void your_request_Click(object sender, EventArgs e)

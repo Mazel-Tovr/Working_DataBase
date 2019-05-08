@@ -122,9 +122,9 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label5.Location = new System.Drawing.Point(75, 215);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(77, 24);
+            this.label5.Size = new System.Drawing.Size(76, 24);
             this.label5.TabIndex = 8;
-            this.label5.Text = "Пороль";
+            this.label5.Text = "Пароль";
             // 
             // button1
             // 
