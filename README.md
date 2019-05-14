@@ -1,7 +1,4 @@
-# BlackJack
+# 
 
-C# blackjack game
+C# Universal application  for working with mysql dataBase
 
-## Docs
-
-Link to [Google Documents](https://go.tver.io/dp-exam)
