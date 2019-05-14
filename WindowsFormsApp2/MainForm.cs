@@ -131,6 +131,7 @@ namespace WindowsFormsApp2
         {
             Form request = new Requests(myConnection, TablesName);
             request.Show();
+            
         }
 
         private void справкаToolStripMenuItem_Click(object sender, EventArgs e)

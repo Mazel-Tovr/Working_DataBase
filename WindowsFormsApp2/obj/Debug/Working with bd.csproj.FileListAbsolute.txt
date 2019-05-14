@@ -82,3 +82,18 @@ D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.Cor
 D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CopyComplete
 D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.exe
 D:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.pdb
+C:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe.config
+C:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.exe
+C:\GitHub\Working_DataBase\WindowsFormsApp2\bin\Debug\Working with MySql DataBase.pdb
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csprojResolveAssemblyReference.cache
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddDataBase.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Editing.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Get_table_name.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Requests.resources
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.GenerateResource.cache
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CoreCompileInputs.cache
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with bd.csproj.CopyComplete
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.exe
+C:\GitHub\Working_DataBase\WindowsFormsApp2\obj\Debug\Working with MySql DataBase.pdb
